@@ -2,7 +2,7 @@
 
 Welcome to **Ideas-Labke** — a collaborative space where ideas are born, explored, and built into reality.
 
-## 🚀 Who We Are
+## 🚀 Who We Are [our site](https://ideaslab.co.ke)
 
 Ideas-Labke is an open innovation lab focused on turning creative concepts into meaningful software projects. We believe in the power of community-driven development, open source collaboration, and building tools that make a difference.
 
